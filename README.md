@@ -4,8 +4,9 @@ Lila is an original character (OC) created by **Rhio2013PH**.
 
 ## About Lila
 
-- **Name:** Lila Valdez
+- **Name:** Lila
 - **Nickname:** TV-Girl
+- **Surname:** Valdez
 - **Gender:** Female
 - **Date of Birth:** May 5, 2010
 - **Species:** Android / TV-Head Hybrid
