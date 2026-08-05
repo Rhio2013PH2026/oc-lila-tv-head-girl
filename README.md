@@ -1,3 +1,5 @@
+<img width="4096" height="3072" alt="1000128161" src="https://github.com/user-attachments/assets/de436585-18be-4a26-9624-6fd561fb42ac" />
+
 # OC Lila (Rhio2013PH)
 
 Lila is an original character (OC) created by **Rhio2013PH**.
