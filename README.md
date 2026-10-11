@@ -57,7 +57,7 @@ Please do not claim the character as your own. When sharing fan art, credit **Rh
 
 **Original Creator:** Rhio Aldjhon B. Reynes (Rhio2013PH)
 
-Inspired by Mariah Arts.
+Inspired by [Mariah Arts](https://www.youtube.com/@MariahArts).
 
 - Original design: January 20–21, 2026
 - Updated design: January 24, 2026
