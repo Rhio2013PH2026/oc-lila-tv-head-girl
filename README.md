@@ -61,7 +61,7 @@ Inspired by [Mariah Arts](https://www.youtube.com/@MariahArts).
 
 - Original design: January 20–21, 2026
 - Updated design: January 24, 2026
-
+- The vector rig version of Lila the TV head girl can also be found [here](https://github.com/Rhio2013PH2026/lila-tv-head-girl-rigs).
 ## Copyright
 
 © 2026 Rhio2013PH Studios, Inc. All Rights Reserved.
